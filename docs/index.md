@@ -30,7 +30,7 @@ from skimage.filters import try_all_threshold
 ```
 ### Example Images
 
-![examples](/docs/assets/example3.png)
+![examples](https://github.com/yamanmy/grain_boundary.github.io/blob/main/docs/assets/example3.png)
 
 ### Ground Truth Images
 
