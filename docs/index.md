@@ -13,7 +13,7 @@ This is a very handy tools for scientists working with perovskite thin films. Kn
 
 Let's walk together through the step that will bring from your electron microscopy image to the size analysis of your perovskite thin films.
 In this study, I have used different edge detector:
-- Difference of Gaussian
+- Difference of Gaussian (DoG)
 - Canny Edge Detection
 - Sobel filter
 - Threshold edges
@@ -36,6 +36,7 @@ from skimage.filters import try_all_threshold
 
 ![ground](/docs/assets/ground_truth3.png)
 
+### Applying DoG
 ```markdown
 Syntax highlighted code block
 
