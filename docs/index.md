@@ -30,11 +30,11 @@ from skimage.filters import try_all_threshold
 ```
 ### Example Images
 
-![examples](https://github.com/yamanmy/grain_boundary.github.io/blob/main/example_images/example2.png)
+![examples](/docs/assets/example3.png)
 
 ### Ground Truth Images
 
-![ground](/docs/assets/ground_truth2.png)
+![ground](/docs/assets/ground_truth3.png)
 
 ```markdown
 Syntax highlighted code block
