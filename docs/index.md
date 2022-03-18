@@ -12,24 +12,21 @@ To use it, just import the grainboundary package and upload your SEM image and y
 This is a very handy tools for scientists working with perovskite thin films. Knowing the size distribution of the perovskite is crucial for solar cell applications.
 
 Let's walk together through the step that will bring from your electron microscopy image to the size analysis of your perovskite thin films.
-
+In this study, I have used different edge detector:
+- Difference of Gaussian
+- Canny Edge Detection
+- Sobel filter
+- Threshold edges
+- U-NET (CNN)
 
 ```markdown
-Syntax highlighted code block
+#Import Some library to use as a edge detector
+import matplotlib.pyplot as plt
+import numpy as np
+from skimage.filters import difference_of_gaussians, window
+from skimage.filters import try_all_threshold
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 ### Example Images
 
