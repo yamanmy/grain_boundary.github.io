@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+## grainboundary
+Finding a grain boundary in images of perovskite thin films
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Finding a grain boundary in images of perovskite thin films
