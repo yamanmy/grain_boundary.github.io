@@ -1,16 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yamanmy/grain_boundary.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+This page explains the project for CSE 455 Computer Vision courses. 
 
 ## grainboundary
-Finding a grain boundary in images of perovskite thin films
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 Finding a grain boundary in images of perovskite thin films
 
 Grainboundary is a package to analyze grain boundary in details directly from electron microscopy images!
@@ -44,6 +36,10 @@ Syntax highlighted code block
 ### Example Images
 
 ![examples](../example_images/example2.png)
+
+### Ground Truth Images
+
+![example1](../example_images/ground_truth2.png)
 
 ```markdown
 Syntax highlighted code block
