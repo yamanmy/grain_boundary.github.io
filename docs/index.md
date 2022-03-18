@@ -34,7 +34,7 @@ from skimage.filters import try_all_threshold
 
 ### Ground Truth Images
 
-![ground](/docs/assets/ground_truth3.png)
+![ground](https://yamanmy.github.io/grain_boundary.github.io/docs/assets/ground_truth3.png)
 
 ### Applying DoG
 ```markdown
