@@ -33,7 +33,7 @@ Syntax highlighted code block
 ```
 ### Example Images
 
-![examples](../example_images/example2.png)
+![examples](https://yamanmy.github.io/grain_boundary.github.io/example_images/example2.png)
 
 ### Ground Truth Images
 
