@@ -14,8 +14,6 @@ This is a very handy tools for scientists working with perovskite thin films. Kn
 Let's walk together through the step that will bring from your electron microscopy image to the size analysis of your perovskite thin films.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
