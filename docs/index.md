@@ -34,7 +34,7 @@ from skimage.filters import try_all_threshold
 
 ### Ground Truth Images
 
-<img src="../example_images/ground_truth2.png" /> 
+![ground](/docs/assets/ground_truth2.png)
 
 ```markdown
 Syntax highlighted code block
