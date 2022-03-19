@@ -36,7 +36,8 @@ from skimage.filters import try_all_threshold
 ![ground](/docs/assets/ground_truth3.png)
 
 ### Video for the Project
-![Video](https://youtu.be/GezpN0gthEI)
+YOu can find the video for the project [here](https://youtu.be/GezpN0gthEI)
+
 
 ### Jekyll Themes
 
